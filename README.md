@@ -6,7 +6,7 @@
 Created a REST API that consumes linkedin REST api using RestTemplate
 
 <h1 align="center">
-  <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/174701540-d5130a1c-8148-4e09-a826-e35222f613e5.JPG"/>
+  <img alt="Readme" title="Readme" src="https://user-images.githubusercontent.com/87916631/175845041-4ddb36a1-a89b-4e70-9e68-92ddce627572.PNG"/>
 </h1>
 
 ## 🔘 Fields of ArtigoModel are:
